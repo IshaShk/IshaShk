@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha sheikh</h1>
-<h3 align="center">A passionate computer science engineer</h3>
+<h3 align="center">**Google DSC Lead'22 @AJIET | Content Writer | Web Dev**</h3>
 
 - 🌱 I’m currently learning **Computer science engineering at AJIET Mangalore**
 
@@ -10,6 +10,9 @@
 - ⚡ Fun fact **Not just a average software engineering Student**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">Linkedln:https://www.linkedin.com/in/isha-sheikh-500974234/</h4>
+<h4 align="left">Instagram:bish.its.ish:</h4>
+<h4 align="left">Twitter:https://twitter.com/CosmicJoon7</h4>
 <p align="left">
 </p>
 
