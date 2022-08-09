@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isha sheikh</h1>
+<h1 align="center">Hi 👋, I'm Isha Sheikh Bashir</h1>
 <h3 align="center"><b>Google DSC Lead'22 @AJIET | Content Writer | Web Dev</b></h3>
 
 - 🌱 I’m currently learning **Computer science engineering at AJIET Mangalore**
