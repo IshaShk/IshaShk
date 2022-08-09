@@ -1,4 +1,3 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=IshaShk)](https://github.com/Harman-Sandhu/github-readme-generator)
 <h1 align="center">Hi 👋, I'm Isha Sheikh Bashir</h1>
 <h3 align="center"><b>Google DSC Lead'22 @AJIET | Content Writer | Web Dev</b></h3>
 
