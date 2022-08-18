@@ -5,6 +5,8 @@
 <h3 align="center"><b>Google DSC Lead'22 @AJIET | Content Writer | Web Dev</b></h3>
 <h3 align="center">A passionate developer from India</h3>
 
+ - 👨‍💻I'm figuring out how machines actually learn and how to teach them better.
+
 - 🔭 I’m currently working on **Wireless Power Transmission System**
 
 - 🌱 I’m currently pursuing **Computer science engineering at AJIET Mangalore**
