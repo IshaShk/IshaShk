@@ -32,3 +32,5 @@
 
  ![IshaShk's Stats](https://github-readme-stats.vercel.app/api?username=IshaShk&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 ![IshaShk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshaShk&theme=shades-of-purple&hide_border=true)
+
+68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966 (896×896)
