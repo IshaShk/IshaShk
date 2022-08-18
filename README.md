@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/94112202/185473885-f1f18e77-4410-4917-85be-8ba4cc6bb6fd.jpg)
+
+
 <h1 align="center">Hi there👋,myself Isha Sheikh Bashir</h1>
 <h3 align="center"><b>Google DSC Lead'22 @AJIET | Content Writer | Web Dev</b></h3>
 <h3 align="center">A passionate developer from India</h3>
