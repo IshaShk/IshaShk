@@ -5,10 +5,11 @@
 <h4 align="center">I'm Isha Sheikh Bashir a Passionate developer from India currently pursuing my Computer science engineering at AJIET Mangalore.I really enjoy learning new languages and framesworks.</h4>
 
 <h3>LANGUAGES AND TECHNOLOGIES</h3> 
-•	👨‍💻 Programming Languages: C, C++, Java, HTML, SQL, Python. <br>
+•	👨‍💻 Programming Languages: Python, C, C++, Java, MySQL, PostgreSQL, HTML, CSS, JavaScript, jQuery, PHP. <br>
 •	‎‍💻 Platform: GCP, Web, Linux, Windows.<br>
-•	⚛️ Tools: git, Figma, MySQL, OracleSql, Android Studio, DBMS, Tableau.<br>
-•	👩🏻‍💼 Soft Skills: Leadership, Data Visualization, Problem Solving, Business Requirement, Event Management , Teaching.<br>
+•	⚛️ Tools: Visual Studio Code, Jupyter notebook, Tableau, PowerBI, Microsoft  Excel, Android Studio, git, Figma.<br>
+•	👩🏻‍💼 Soft Skills:Leadership, Data Visualization, Quick Learner, Problem Solving, Business Requirement, Communication,
+Data storytelling.<br>
 
 <h3>EXPIRIENCES AND AWARDS</h3> 
 • <b>Google DSC Lead -AJIET	(July 2022 - July 2023)</b><br>
