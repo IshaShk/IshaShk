@@ -1,4 +1,3 @@
-![Picsart_23-07-19_13-16-08-137](https://github.com/IshaShk/IshaShk/assets/94112202/c6e9865e-fe48-4134-a865-c05f1aab8c4a)
 
 <h1 align="center" >Isha Sheikh Bashir</h1>
 <h3 align="center"><b>Google DSC Lead'22 | Google CrowdSource Influencer | Aglozenith Lead'23 | Data Analyst | Web Developer</b></h3>
